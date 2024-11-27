@@ -18,6 +18,7 @@ class Program
         {
             Console.WriteLine("Web API running at " + baseAddress);
             Console.WriteLine("Access cursor state data at " + baseAddress + "api/cursorstate");
+            Console.WriteLine("Access process cpu state data at " + baseAddress + "api/process/cpu?process={processName:Required}&pollTime={pollingTime: default = 1000ms}");
             Console.ReadLine();
         }
     }
