@@ -8,7 +8,7 @@ namespace YourNamespace.Controllers
     public class ProcessController : ApiController
     {
         [HttpGet]
-        [Route("api/process/cpu")]
+        [Route("api/process")]
         public IHttpActionResult GetCpuUsage(string process, int pollTime = 1000)
         {
             try

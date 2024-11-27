@@ -89,8 +89,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ProcessController.cs" />
-    <Compile Include="CursorStateController.cs" />
+    <Compile Include="Controllers\MemoryController.cs" />
+    <Compile Include="Controllers\ProcessController.cs" />
+    <Compile Include="Controllers\CursorStateController.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
