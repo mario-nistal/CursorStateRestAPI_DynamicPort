@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CursorStateRestAPI")]
+[assembly: AssemblyTitle("Plant Engineering Performance Machine State WebAPI Server")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("CursorStateRestAPI")]
+[assembly: AssemblyCompany("Emerson FRSI MNL")]
+[assembly: AssemblyProduct("PEP Machine State WebAPI Server")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
